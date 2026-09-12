@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Prospect Analyzer — AI Sales Team for Claude Code
+Prospect Analyzer — AI Sales Team for Codex
 Fetches a company website and extracts structured data for prospect analysis.
 
 Usage:

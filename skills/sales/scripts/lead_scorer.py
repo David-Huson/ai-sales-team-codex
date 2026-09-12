@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Lead Scorer — AI Sales Team for Claude Code
+Lead Scorer — AI Sales Team for Codex
 Implements BANT + MEDDIC scoring algorithm for lead qualification.
 
 Usage:

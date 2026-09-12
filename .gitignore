@@ -27,3 +27,9 @@ venv/
 *.swp
 *.swo
 .DS_Store
+
+# Prospect workspaces and temporary report data
+outputs/
+_pdf_input.json
+.env
+.env.*

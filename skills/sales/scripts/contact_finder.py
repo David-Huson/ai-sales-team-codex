@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Contact Finder — AI Sales Team for Claude Code
+Contact Finder — AI Sales Team for Codex
 Extracts leadership and team information from company web pages.
 
 Usage:
